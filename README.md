@@ -88,6 +88,11 @@ Then include them like this:
 ![Dashboard](images/dashboard.png)
 
 ![EDA](images/eda.png)
+![EDA](images/eda-2.png)
+![EDA](images/eda-3.png)
+![EDA](images/eda-4.png)
+![EDA](images/eda-5.png)
+![EDA](images/eda-6.png)
 ```
 
 ---
