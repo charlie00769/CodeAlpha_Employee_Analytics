@@ -198,7 +198,7 @@ python -m streamlit run dashboard/app.py
 
 B.Tech Artificial Intelligence & Data Science
 
-CodSoft Data Analytics Internship
+CodeAlpha Data Analytics Internship
 
 GitHub: https://github.com/charlie00769
 
